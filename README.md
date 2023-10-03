@@ -17,6 +17,12 @@ Este diretório é destinado ao armazenamento e compartilhamento de scripts para
    ```bash
    chmod +x nomedoarquivo.sh
    use o comando ./nomedoarquivo.sh para executar o script
+   
+      Exemplo 1:
+
+         chmod +x docker_k8s_minikube.sh
+         ./docker_k8s_minikube.sh
+   
 
 5. Todos os scripts são criados para rodar no Debian/ubuntu e distros Debian Like, por favor, se for executar um script em uma distro diferente, adequar o script de acordo com a ferramenta de gerenciamento dos pacotes da distro/versão do linux usada, exemplo yum, PACMAN, ZYpp, NPM etc.  
 
