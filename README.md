@@ -16,3 +16,5 @@ Este diretório é destinado ao armazenamento e compartilhamento de scripts para
 
    ```bash
    chmod +x nomedoarquivo.sh
+   use o comando ./nomedoarquivo.sh para executar o script
+   
