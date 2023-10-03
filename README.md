@@ -18,5 +18,5 @@ Este diretório é destinado ao armazenamento e compartilhamento de scripts para
    chmod +x nomedoarquivo.sh
    use o comando ./nomedoarquivo.sh para executar o script
 
-5. Todos os scripts são adaptados para rodar no Debian/ubuntu e distros Debian Like, por favor, se for executar um script em uma distro diferente, adequar o script de acordo com a ferramenta de gerenciamento dos pacotes da distro/versão do linux usada, exemplo yum, PACMAN, ZYpp, NPM etc.  
+5. Todos os scripts são criados para rodar no Debian/ubuntu e distros Debian Like, por favor, se for executar um script em uma distro diferente, adequar o script de acordo com a ferramenta de gerenciamento dos pacotes da distro/versão do linux usada, exemplo yum, PACMAN, ZYpp, NPM etc.  
 
